@@ -15,3 +15,6 @@ Recebi o aviseo de que a senha era muito curta, mas meso assim aceitei.
 
 Criei a view que iria mostrar o texto já esperado pelo professor, mas com meu nome quando acessar o link da porta 8000.
 Configurei URLs da aplicação do webapp e depois a urls do meu projeto para incluir o caminho justamente do webapp para acessar e finalizei executando e acessando aplicação. Primeiro a pagina inicial e depois o Admin.
+
+## Considerações finais
+É um trabalho interessante, me fez experenciar na prática como é criar conteiners como desenvolvedor e fazer aplicação web com Django, alterando banco de dados, fazendo alterações no hospedeiro e no container, mas confesso que ainda me deixa dúvidas, pois são muitos comando e acabo não conseguindo fixar tudo, quais suas funções, fiz a criação do projeto mais fiquei na dúvida, preciso fazer mais vezes e com mais calma.
